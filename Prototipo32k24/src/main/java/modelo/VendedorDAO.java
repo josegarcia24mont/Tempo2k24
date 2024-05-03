@@ -5,7 +5,7 @@
  */
 package modelo;
 
-import domain.Vendedor;
+import controlador.Vendedor;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

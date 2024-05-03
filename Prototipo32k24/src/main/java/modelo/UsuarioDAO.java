@@ -5,7 +5,7 @@
  */
 package modelo;
 
-import domain.Usuario;
+import controlador.Usuario;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
